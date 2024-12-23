@@ -16,6 +16,9 @@
 
     // Khóa nội dung ban đầu
     const lockContent = () => {
+        if (targetElement) {
+            alert(1);
+        }
         targetElement.textContent = "≈ 100 USD";
     };
     lockContent();
