@@ -5,8 +5,8 @@
 // @description  Fix nội dung div và ngăn thay đổi
 // @author       Your Name
 // @match        *://*.example.com/*  // Thay bằng URL của trang web bạn muốn áp dụng
-// @updateURL    https://raw.githubusercontent.com/your-username/Fix-Div-Content/main/fix-div-content.user.js
-// @downloadURL  https://raw.githubusercontent.com/your-username/Fix-Div-Content/main/fix-div-content.user.js
+// @updateURL    https://github.com/lengocphan2001/cryptotool/blob/master/crypto.user.js
+// @downloadURL  https://github.com/lengocphan2001/cryptotool/blob/master/crypto.user.js
 // @grant        none
 // ==/UserScript==
 
