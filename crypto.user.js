@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Fix nội dung div và ngăn thay đổi
 // @author       Your Name
-// @match        *://*.example.com/*  // Thay bằng URL của trang web bạn muốn áp dụng
+// @match        https://www.binance.com/vi/my/dashboard
 // @updateURL    https://github.com/lengocphan2001/cryptotool/blob/master/crypto.user.js
 // @downloadURL  https://github.com/lengocphan2001/cryptotool/blob/master/crypto.user.js
 // @grant        none
